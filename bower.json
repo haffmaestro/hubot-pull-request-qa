@@ -1,0 +1,25 @@
+{
+  "name": "hubot-pull-request-qa",
+  "description": "Hubot script that enforces qa for pull-request",
+  "main": "index.coffee",
+  "authors": [
+    "Halfdan Hem <halfdanhem@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "github",
+    "qa",
+    "pull-request"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
