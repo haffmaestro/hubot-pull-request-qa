@@ -4,22 +4,21 @@
   "version": "0.0.0",
   "author": "Halfdan Hem <halfdanhem@gmail.com>",
   "license": "MIT",
-
-  "keywords": ["hubot hubot-scripts github qa pull-request"],
-
+  "keywords": [
+    "hubot hubot-scripts github qa pull-request"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/hubot-scripts/hubot-pull-request-qa.git"
   },
-
   "bugs": {
     "url": "https://github.com/hubot-scripts/hubot-pull-request-qa/issues"
   },
-
   "dependencies": {
-    "coffee-script": "~1.6"
+    "coffee-script": "~1.6",
+    "githubot": "^1.0.0",
+    "require": "^2.4.20"
   },
-
   "devDependencies": {
     "mocha": "*",
     "chai": "*",
@@ -30,9 +29,7 @@
     "matchdep": "~0.1.2",
     "grunt-contrib-watch": "~0.5.3"
   },
-
   "main": "index.coffee",
-
   "scripts": {
     "test": "grunt test"
   }
