@@ -16,7 +16,7 @@ Then add **hubot-pull-request-qa** to your `external-scripts.json`:
 ["hubot-pull-request-qa"]
 ```
 
-## Sample Interaction
+## Sample Interactions
 
 ```
 user1>> hubot hello
