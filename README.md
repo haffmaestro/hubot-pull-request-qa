@@ -2,7 +2,7 @@
 
 Hubot script that enforces qa for pull-request
 
-See [`src/pull-request-qa.coffee`](src/pull-request-qa.coffee) for full documentation.
+See [`src/pull-request-qa.js`](src/pull-request-qa.js) for full documentation.
 
 ## Installation
 

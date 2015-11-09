@@ -1,7 +1,7 @@
 {
   "name": "hubot-pull-request-qa",
   "description": "Hubot script that enforces qa for pull-request",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Halfdan Hem <halfdanhem@gmail.com>",
   "license": "MIT",
   "keywords": [
